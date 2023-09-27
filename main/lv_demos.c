@@ -49,7 +49,7 @@ void app_main(void)
 
     // slider_create();
 
-    #include "ui_sample/ui.h"
+    #include "ui_demo/ui.h"
     ui_init();
 
 }
